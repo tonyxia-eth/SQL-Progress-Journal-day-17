@@ -1,6 +1,6 @@
 # SQL-Progress-Journal-day-17
 
-# Day 18: SQL Learning Journal — Task 7 (Medium → Hard Level)
+ Task 7 (Medium → Hard Level)
 
 Today I focused on mastering the *medium-to-hard tier* of Task 7 from CS50’s Moneyball project, which meant diving into conditional aggregation.
 
